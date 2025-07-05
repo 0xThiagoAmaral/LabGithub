@@ -24,7 +24,7 @@ Cada `commit`, `branch`, `issue` ou `pull request` tem propósito claro e replic
 ## 🔜 Próximas implementações
 
 - [ ] Estrutura de *branches* com `main`, `dev` e `feature/*`
-- [ ] Pull Requests com revisão técnica simulada
+- [x] Pull Requests com revisão técnica simulada
 - [ ] Templates personalizados de Issue e PR
 - [ ] Organização via Projects (Kanban)
 - [ ] GitHub Actions para CI básico
